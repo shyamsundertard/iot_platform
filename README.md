@@ -4,6 +4,10 @@
 - Backend - https://github.com/shyamsundertard/iot-backend
 - Frontend - https://github.com/shyamsundertard/iot-frontend
 
+### Login credentials
+- username - tardshyamsunder
+- password - iotpassword
+
 A comprehensive IoT platform that connects ESP32 microcontrollers with a modern web dashboard for real-time monitoring and control of various sensors and actuators.
 
 ## Features
